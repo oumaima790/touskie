@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/App.vue","./src/components/ConsultantForm.vue","./src/components/HelloWorld.vue","./src/components/ListingForm.vue","./src/components/ListingList.vue","./src/components/TransactionForm.vue","./src/components/UserForm.vue"],"version":"5.9.3"}
